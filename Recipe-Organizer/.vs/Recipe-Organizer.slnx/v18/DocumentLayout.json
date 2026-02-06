@@ -1,9 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\",
+  "WorkspaceRootPath": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\obriem\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WANGMK\\AppData\\Local\\Temp\\.vsdbgsrc\\f0e77eb9a0f44a590f6b886140ca3c92d12c24fb\\MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|c:\\users\\wangmk\\source\\repos\\advmobl-recipeorganizer\\recipe-organizer\\recipe-organizer\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D551A66B-CAED-EFEF-6ECE-EAE9D041E359}|Recipe-Organizer\\Recipe-Organizer.csproj|solutionrelative:recipe-organizer\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +45,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\AppShell.xaml",
+              "RelativeToolTip": "Recipe-Organizer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:18:56.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\AppData\\Local\\Temp\\.vsdbgsrc\\f0e77eb9a0f44a590f6b886140ca3c92d12c24fb\\MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f0e77eb9a0f44a590f6b886140ca3c92d12c24fb\\MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\WANGMK\\AppData\\Local\\Temp\\.vsdbgsrc\\f0e77eb9a0f44a590f6b886140ca3c92d12c24fb\\MainPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f0e77eb9a0f44a590f6b886140ca3c92d12c24fb\\MainPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:10:07.921Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml",
+              "RelativeToolTip": "Recipe-Organizer\\MainPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:09:42.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\App.xaml",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\App.xaml",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\App.xaml",
+              "RelativeToolTip": "Recipe-Organizer\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:09:20.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\App.xaml.cs",
+              "RelativeToolTip": "Recipe-Organizer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:09:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MauiProgram.cs",
+              "RelativeToolTip": "Recipe-Organizer\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:09:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml",
+              "RelativeToolTip": "Recipe-Organizer\\MainPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:02:00.559Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Recipe-Organizer\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\MainPage.xaml.cs",
+              "RelativeToolTip": "Recipe-Organizer\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:01:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe.cs",
               "RelativeDocumentMoniker": "Recipe-Organizer\\Recipe.cs",
-              "ToolTip": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe.cs",
+              "ToolTip": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe.cs",
               "RelativeToolTip": "Recipe-Organizer\\Recipe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:12:23.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T05:12:23.676Z"
             }
           ]
         }

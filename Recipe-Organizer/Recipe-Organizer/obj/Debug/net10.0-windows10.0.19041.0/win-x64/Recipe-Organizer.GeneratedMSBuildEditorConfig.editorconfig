@@ -14,7 +14,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Recipe_Organizer
-build_property.ProjectDir = C:\Users\Obriem\source\repos\ADVMOBL-RecipeOrganizer\Recipe-Organizer\Recipe-Organizer\
+build_property.ProjectDir = C:\Users\WANGMK\Source\Repos\ADVMOBL-RecipeOrganizer\Recipe-Organizer\Recipe-Organizer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -28,7 +28,7 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Obriem/source/repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/App.xaml]
+[C:/Users/WANGMK/Source/Repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Recipe_Organizer.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -38,7 +38,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Obriem/source/repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/AppShell.xaml]
+[C:/Users/WANGMK/Source/Repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Recipe_Organizer.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -48,7 +48,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Obriem/source/repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/MainPage.xaml]
+[C:/Users/WANGMK/Source/Repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Recipe_Organizer.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -58,7 +58,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Obriem/source/repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/Resources/Styles/Colors.xaml]
+[C:/Users/WANGMK/Source/Repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Recipe_Organizer.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -68,7 +68,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Obriem/source/repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/Resources/Styles/Styles.xaml]
+[C:/Users/WANGMK/Source/Repos/ADVMOBL-RecipeOrganizer/Recipe-Organizer/Recipe-Organizer/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Recipe_Organizer.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
