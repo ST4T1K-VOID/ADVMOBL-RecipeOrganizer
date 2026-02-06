@@ -11,10 +11,10 @@ namespace Recipe_Organizer
         public int Servings { get; set; }
         public double PreperationTime { get; set; }
         public List<string> Instructions { get; set; }
-        public List<Tuple<string, int>> Ingredients { get; set; }
+        public List<(string, int)> Ingredients { get; set; }
 
 
-        public Recipe(string name, string description, int servings, double preperationTime, List<string> instructions, List<Tuple<string, int>> ingredients)
+        public Recipe(string name, string description, int servings, double preperationTime, List<string> instructions, List<(string, int)> ingredients)
         {
             Name = name;
             Description = description;
