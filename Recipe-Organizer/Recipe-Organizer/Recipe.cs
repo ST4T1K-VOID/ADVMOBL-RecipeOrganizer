@@ -8,15 +8,20 @@ namespace Recipe_Organizer
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Servings { get; set; }
-        public double preperationTime { get; set; }
-        public List<string> instructions { get; set; }
-        public List<Tuple<string, int>> ingedients { get; set; }
+        public int Servings { get; set; }
+        public double PreperationTime { get; set; }
+        public List<string> Instructions { get; set; }
+        public List<Tuple<string, int>> Ingredients { get; set; }
 
 
-        public Recipe()
+        public Recipe(string name, string description, int servings, double preperationTime, List<string> instructions, List<Tuple<string, int>> ingredients)
         {
-
+            Name = name;
+            Description = description;
+            Servings = servings;
+            PreperationTime = preperationTime;
+            Instructions = instructions;
+            Ingredients = ingredients;
         }
     }
 }
