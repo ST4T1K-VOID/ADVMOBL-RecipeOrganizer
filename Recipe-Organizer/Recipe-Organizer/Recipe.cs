@@ -13,7 +13,7 @@ namespace Recipe_Organizer
         public List<string> Instructions { get; set; }
         public List<(string, int)> Ingredients { get; set; }
 
-
+         
         public Recipe(string name, string description, int servings, double preperationTime, List<string> instructions, List<(string, int)> ingredients)
         {
             Name = name;
