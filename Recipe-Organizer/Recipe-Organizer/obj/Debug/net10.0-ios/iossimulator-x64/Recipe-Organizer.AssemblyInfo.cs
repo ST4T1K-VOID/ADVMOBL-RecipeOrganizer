@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recipe-Organizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+62b1a8959843222d41acb39d1ee42f7880d79f0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recipe-Organizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recipe-Organizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
