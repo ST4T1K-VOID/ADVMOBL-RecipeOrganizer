@@ -28989,24 +28989,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Obriem\\.nuget\\packages\\": {},
+    "C:\\Users\\WANGMK\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe-Organizer.csproj",
+      "projectUniqueName": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe-Organizer.csproj",
       "projectName": "Recipe-Organizer",
-      "projectPath": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe-Organizer.csproj",
-      "packagesPath": "C:\\Users\\Obriem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Obriem\\source\\repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\obj\\",
+      "projectPath": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\Recipe-Organizer.csproj",
+      "packagesPath": "C:\\Users\\WANGMK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WANGMK\\Source\\Repos\\ADVMOBL-RecipeOrganizer\\Recipe-Organizer\\Recipe-Organizer\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Obriem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WANGMK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
